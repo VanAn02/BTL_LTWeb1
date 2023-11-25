@@ -1,0 +1,45 @@
+F:\C#\APi\DbShop\Repository\bin\Debug\net6.0\DbShop.Repository.deps.json
+F:\C#\APi\DbShop\Repository\bin\Debug\net6.0\DbShop.Repository.dll
+F:\C#\APi\DbShop\Repository\bin\Debug\net6.0\DbShop.Repository.pdb
+F:\C#\APi\DbShop\Repository\obj\Debug\net6.0\DbShop.Repository.csproj.AssemblyReference.cache
+F:\C#\APi\DbShop\Repository\obj\Debug\net6.0\DbShop.Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\APi\DbShop\Repository\obj\Debug\net6.0\DbShop.Repository.AssemblyInfoInputs.cache
+F:\C#\APi\DbShop\Repository\obj\Debug\net6.0\DbShop.Repository.AssemblyInfo.cs
+F:\C#\APi\DbShop\Repository\obj\Debug\net6.0\DbShop.Repository.csproj.CoreCompileInputs.cache
+F:\C#\APi\DbShop\Repository\obj\Debug\net6.0\DbShop.Repository.csproj.CopyComplete
+F:\C#\APi\DbShop\Repository\obj\Debug\net6.0\DbShop.Repository.dll
+F:\C#\APi\DbShop\Repository\obj\Debug\net6.0\refint\DbShop.Repository.dll
+F:\C#\APi\DbShop\Repository\obj\Debug\net6.0\DbShop.Repository.pdb
+F:\C#\APi\DbShop\Repository\obj\Debug\net6.0\ref\DbShop.Repository.dll
+F:\C#\APi\DbShop\Repository\bin\Debug\net6.0\DbShop.Model.dll
+F:\C#\APi\DbShop\Repository\bin\Debug\net6.0\DbShop.Model.pdb
+D:\LẬP TRÌNH WEB\DbShop\DbShop\Repository\bin\Debug\net6.0\DbShop.Repository.deps.json
+D:\LẬP TRÌNH WEB\DbShop\DbShop\Repository\bin\Debug\net6.0\DbShop.Repository.dll
+D:\LẬP TRÌNH WEB\DbShop\DbShop\Repository\bin\Debug\net6.0\DbShop.Repository.pdb
+D:\LẬP TRÌNH WEB\DbShop\DbShop\Repository\bin\Debug\net6.0\DbShop.Model.dll
+D:\LẬP TRÌNH WEB\DbShop\DbShop\Repository\bin\Debug\net6.0\DbShop.Model.pdb
+D:\LẬP TRÌNH WEB\DbShop\DbShop\Repository\obj\Debug\net6.0\DbShop.Repository.csproj.AssemblyReference.cache
+D:\LẬP TRÌNH WEB\DbShop\DbShop\Repository\obj\Debug\net6.0\DbShop.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\LẬP TRÌNH WEB\DbShop\DbShop\Repository\obj\Debug\net6.0\DbShop.Repository.AssemblyInfoInputs.cache
+D:\LẬP TRÌNH WEB\DbShop\DbShop\Repository\obj\Debug\net6.0\DbShop.Repository.AssemblyInfo.cs
+D:\LẬP TRÌNH WEB\DbShop\DbShop\Repository\obj\Debug\net6.0\DbShop.Repository.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH WEB\DbShop\DbShop\Repository\obj\Debug\net6.0\DbShop.Repository.csproj.CopyComplete
+D:\LẬP TRÌNH WEB\DbShop\DbShop\Repository\obj\Debug\net6.0\DbShop.Repository.dll
+D:\LẬP TRÌNH WEB\DbShop\DbShop\Repository\obj\Debug\net6.0\refint\DbShop.Repository.dll
+D:\LẬP TRÌNH WEB\DbShop\DbShop\Repository\obj\Debug\net6.0\DbShop.Repository.pdb
+D:\LẬP TRÌNH WEB\DbShop\DbShop\Repository\obj\Debug\net6.0\ref\DbShop.Repository.dll
+D:\LẬP TRÌNH WEB\BAITAPLON\DbShop\Repository\bin\Debug\net6.0\DbShop.Repository.deps.json
+D:\LẬP TRÌNH WEB\BAITAPLON\DbShop\Repository\bin\Debug\net6.0\DbShop.Repository.dll
+D:\LẬP TRÌNH WEB\BAITAPLON\DbShop\Repository\bin\Debug\net6.0\DbShop.Repository.pdb
+D:\LẬP TRÌNH WEB\BAITAPLON\DbShop\Repository\bin\Debug\net6.0\DbShop.Model.dll
+D:\LẬP TRÌNH WEB\BAITAPLON\DbShop\Repository\bin\Debug\net6.0\DbShop.Model.pdb
+D:\LẬP TRÌNH WEB\BAITAPLON\DbShop\Repository\obj\Debug\net6.0\DbShop.Repository.csproj.AssemblyReference.cache
+D:\LẬP TRÌNH WEB\BAITAPLON\DbShop\Repository\obj\Debug\net6.0\DbShop.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\LẬP TRÌNH WEB\BAITAPLON\DbShop\Repository\obj\Debug\net6.0\DbShop.Repository.AssemblyInfoInputs.cache
+D:\LẬP TRÌNH WEB\BAITAPLON\DbShop\Repository\obj\Debug\net6.0\DbShop.Repository.AssemblyInfo.cs
+D:\LẬP TRÌNH WEB\BAITAPLON\DbShop\Repository\obj\Debug\net6.0\DbShop.Repository.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH WEB\BAITAPLON\DbShop\Repository\obj\Debug\net6.0\DbShop.Repository.csproj.CopyComplete
+D:\LẬP TRÌNH WEB\BAITAPLON\DbShop\Repository\obj\Debug\net6.0\DbShop.Repository.dll
+D:\LẬP TRÌNH WEB\BAITAPLON\DbShop\Repository\obj\Debug\net6.0\refint\DbShop.Repository.dll
+D:\LẬP TRÌNH WEB\BAITAPLON\DbShop\Repository\obj\Debug\net6.0\DbShop.Repository.pdb
+D:\LẬP TRÌNH WEB\BAITAPLON\DbShop\Repository\obj\Debug\net6.0\ref\DbShop.Repository.dll

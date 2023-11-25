@@ -1,0 +1,42 @@
+F:\C#\APi\DbShop\Model\bin\Debug\net6.0\DbShop.Model.deps.json
+F:\C#\APi\DbShop\Model\bin\Debug\net6.0\DbShop.Model.runtimeconfig.json
+F:\C#\APi\DbShop\Model\bin\Debug\net6.0\DbShop.Model.dll
+F:\C#\APi\DbShop\Model\bin\Debug\net6.0\DbShop.Model.pdb
+F:\C#\APi\DbShop\Model\obj\Debug\net6.0\DbShop.Model.csproj.AssemblyReference.cache
+F:\C#\APi\DbShop\Model\obj\Debug\net6.0\DbShop.Model.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\APi\DbShop\Model\obj\Debug\net6.0\DbShop.Model.AssemblyInfoInputs.cache
+F:\C#\APi\DbShop\Model\obj\Debug\net6.0\DbShop.Model.AssemblyInfo.cs
+F:\C#\APi\DbShop\Model\obj\Debug\net6.0\DbShop.Model.csproj.CoreCompileInputs.cache
+F:\C#\APi\DbShop\Model\obj\Debug\net6.0\DbShop.Model.dll
+F:\C#\APi\DbShop\Model\obj\Debug\net6.0\refint\DbShop.Model.dll
+F:\C#\APi\DbShop\Model\obj\Debug\net6.0\DbShop.Model.pdb
+F:\C#\APi\DbShop\Model\obj\Debug\net6.0\DbShop.Model.genruntimeconfig.cache
+F:\C#\APi\DbShop\Model\obj\Debug\net6.0\ref\DbShop.Model.dll
+D:\LẬP TRÌNH WEB\DbShop\DbShop\Model\obj\Debug\net6.0\DbShop.Model.csproj.AssemblyReference.cache
+D:\LẬP TRÌNH WEB\DbShop\DbShop\Model\obj\Debug\net6.0\DbShop.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\LẬP TRÌNH WEB\DbShop\DbShop\Model\obj\Debug\net6.0\DbShop.Model.AssemblyInfoInputs.cache
+D:\LẬP TRÌNH WEB\DbShop\DbShop\Model\obj\Debug\net6.0\DbShop.Model.AssemblyInfo.cs
+D:\LẬP TRÌNH WEB\DbShop\DbShop\Model\obj\Debug\net6.0\DbShop.Model.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH WEB\DbShop\DbShop\Model\obj\Debug\net6.0\DbShop.Model.dll
+D:\LẬP TRÌNH WEB\DbShop\DbShop\Model\obj\Debug\net6.0\refint\DbShop.Model.dll
+D:\LẬP TRÌNH WEB\DbShop\DbShop\Model\obj\Debug\net6.0\DbShop.Model.pdb
+D:\LẬP TRÌNH WEB\DbShop\DbShop\Model\bin\Debug\net6.0\DbShop.Model.deps.json
+D:\LẬP TRÌNH WEB\DbShop\DbShop\Model\bin\Debug\net6.0\DbShop.Model.runtimeconfig.json
+D:\LẬP TRÌNH WEB\DbShop\DbShop\Model\bin\Debug\net6.0\DbShop.Model.dll
+D:\LẬP TRÌNH WEB\DbShop\DbShop\Model\bin\Debug\net6.0\DbShop.Model.pdb
+D:\LẬP TRÌNH WEB\DbShop\DbShop\Model\obj\Debug\net6.0\DbShop.Model.genruntimeconfig.cache
+D:\LẬP TRÌNH WEB\DbShop\DbShop\Model\obj\Debug\net6.0\ref\DbShop.Model.dll
+D:\LẬP TRÌNH WEB\BAITAPLON\DbShop\Model\bin\Debug\net6.0\DbShop.Model.deps.json
+D:\LẬP TRÌNH WEB\BAITAPLON\DbShop\Model\bin\Debug\net6.0\DbShop.Model.runtimeconfig.json
+D:\LẬP TRÌNH WEB\BAITAPLON\DbShop\Model\bin\Debug\net6.0\DbShop.Model.dll
+D:\LẬP TRÌNH WEB\BAITAPLON\DbShop\Model\bin\Debug\net6.0\DbShop.Model.pdb
+D:\LẬP TRÌNH WEB\BAITAPLON\DbShop\Model\obj\Debug\net6.0\DbShop.Model.csproj.AssemblyReference.cache
+D:\LẬP TRÌNH WEB\BAITAPLON\DbShop\Model\obj\Debug\net6.0\DbShop.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\LẬP TRÌNH WEB\BAITAPLON\DbShop\Model\obj\Debug\net6.0\DbShop.Model.AssemblyInfoInputs.cache
+D:\LẬP TRÌNH WEB\BAITAPLON\DbShop\Model\obj\Debug\net6.0\DbShop.Model.AssemblyInfo.cs
+D:\LẬP TRÌNH WEB\BAITAPLON\DbShop\Model\obj\Debug\net6.0\DbShop.Model.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH WEB\BAITAPLON\DbShop\Model\obj\Debug\net6.0\DbShop.Model.dll
+D:\LẬP TRÌNH WEB\BAITAPLON\DbShop\Model\obj\Debug\net6.0\refint\DbShop.Model.dll
+D:\LẬP TRÌNH WEB\BAITAPLON\DbShop\Model\obj\Debug\net6.0\DbShop.Model.pdb
+D:\LẬP TRÌNH WEB\BAITAPLON\DbShop\Model\obj\Debug\net6.0\DbShop.Model.genruntimeconfig.cache
+D:\LẬP TRÌNH WEB\BAITAPLON\DbShop\Model\obj\Debug\net6.0\ref\DbShop.Model.dll

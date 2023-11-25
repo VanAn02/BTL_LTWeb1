@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DbTravel.Api.props" />
+</Project>
